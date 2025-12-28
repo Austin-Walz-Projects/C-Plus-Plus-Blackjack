@@ -1,4 +1,4 @@
-# C-Plus-Plus-Blackjack
+# C++ Blackjack
 I cannot currently locate the code files, but will upload them once found. Until then, I have provided screenshots from the project's completion, showcasing some major development points:
 
 
